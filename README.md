@@ -1,4 +1,4 @@
-![8-bit Banner](8-bit_banner.png)
+![8-bit Banner](8-bit_banner2.png)
 
 # Hi there 👋 I'm Dimitar Terziev!
 I'm a passionate multimedia design graduate who loves crafting intuitive and engaging UI/UX experiences. My journey as a developer and designer has taught me the importance of blending creativity with functionality to deliver exceptional user experiences.
