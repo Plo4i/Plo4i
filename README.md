@@ -9,31 +9,19 @@ I'm a passionate multimedia design graduate who loves crafting intuitive and eng
 - Advanced full-stack development practices.
 - Experimenting with tools like Power BI for data analysis and visualization.
 - Diving deeper into Networking, Server Management, and Infrastructure.
-## 👯 I’m looking to collaborate on:
-- Projects that combine creativity, design, and development.
-- Open-source web development and cloud infrastructure initiatives.
-- Any exciting projects in UI/UX design or multimedia!
-## 💬 Ask me about:
-- Front-end development (React, Vite, Tailwind CSS).
-- Cloud solutions and Nextcloud setups.
-- Anything related to multimedia design, from UX/UI to visual storytelling.
 ## 📫 How to reach me:
 
 <p align="left">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="30"/>
+   <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="white" d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93zM6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37z"/></svg>
   </a>
   <a href="https://dimitarterziev.com" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/-Website-000000?style=flat&logo=web&logoColor=white" height="30"/>
+    <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="white" d="M17.9 17.39c-.26-.8-1.01-1.39-1.9-1.39h-1v-3a1 1 0 0 0-1-1H8v-2h2a1 1 0 0 0 1-1V7h2a2 2 0 0 0 2-2v-.41a7.984 7.984 0 0 1 2.9 12.8M11 19.93c-3.95-.49-7-3.85-7-7.93c0-.62.08-1.22.21-1.79L9 15v1a2 2 0 0 0 2 2m1-16A10 10 0 0 0 2 12a10 10 0 0 0 10 10a10 10 0 0 0 10-10A10 10 0 0 0 12 2"/></svg>
   </a>
   <a href="https://twitter.com/your-twitter" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" height="30"/>
+    <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 16 16"><path fill="white" d="M9.294 6.928L14.357 1h-1.2L8.762 6.147L5.25 1H1.2l5.31 7.784L1.2 15h1.2l4.642-5.436L10.751 15h4.05zM7.651 8.852l-.538-.775L2.832 1.91h1.843l3.454 4.977l.538.775l4.491 6.47h-1.843z"/></svg>
   </a>
 </p>
-
-
-### ⚡ Fun fact:
-- I love exploring the intersection of technology and art.
 
 ---
 
