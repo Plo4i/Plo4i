@@ -17,12 +17,3 @@ I'm an international student in Denmark, studying Global Business Engineering wi
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DimitarTerziev_)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+359882707995)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Atomicluster/)
-
----
-
-<details>
-  <summary>📊 GitHub Stats</summary>
-
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Plo4i&show_icons=true&theme=radical)
-
-</details>
