@@ -1,7 +1,7 @@
 ![8-bit Banner](BannerGitHub.png)
 
 # Hi there 👋 I'm Dimitar Terziev!
-I'm an international student in Denmark, specializing in Global Business Engineering with a focus on software. Networking is my passion, and I've dedicated substantial time to homelab projects, exploring the intricate world of network engineering. Right now I'm striving to turn this passion into a career.
+I'm an international student in Denmark, studying Global Business Engineering with a focus on Software Development. Networking is my passion, and I've dedicated substantial time to homelab projects, exploring the intricate world of network engineering. Right now I'm striving to turn this passion into a career.
 
 ## 🔭 I’m currently working on:
 - Building intuitive and scalable web hosting platforms as well as my servers/datacenter.
